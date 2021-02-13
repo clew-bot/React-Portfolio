@@ -1,0 +1,16 @@
+.portImg {
+  max-height: 70vw;
+  max-width: 49vw;
+  border-radius: 5px;
+}
+
+.firsth1 {
+  text-align: center;
+  margin-top: 90px;
+  padding: 20vw;
+}
+.firstTites {
+  margin-top: 15vw;
+  text-align: center;
+  font-size: 10vw;
+}
